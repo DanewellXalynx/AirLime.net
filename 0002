@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Forikyu Pack - Packs - 9974Lime's Packs</title>
+    <link href="packstyle.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="https://freesvg.org/img/1540204194.png" type="image/x-icon">
+  </head>
+  <body>
+ <iframe width="914" height="514" src="https://www.youtube.com/embed/rlDxFNqygIE" title="🐢by stickfab reuploaded" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <div class="packskyu3">
+
+   </div>
+   <style>
+     body {
+       background-color: #00ff00;
+     }
+   </style>
+   <script src="media17261862worker.js"></script>
+   <script src="script.js"></script>
+  </body>
+</html>

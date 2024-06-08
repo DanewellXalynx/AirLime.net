@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Forikyu Pack - Packs - 9974Lime's Packs</title>
+    <link href="packstyle.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="https://freesvg.org/img/1540204194.png" type="image/x-icon">
+  </head>
+  <body>
+   <div class="packskyu">
+    <a href="https://discord.com/api/oauth2/authorize?client_id=919967851555721226&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Fapp&response_type=code&scope=identify%20email%20bot%20guilds%20applications.commands">
+      <button>Forikyu Pack</button>
+
+    </a>
+   </div>
+
+
+
+
+
+
+
+
+
+   <style>
+     body {
+       background-color: #00ff00;
+     }
+   </style>
+   <script src="media17261862worker.js"></script>
+   <script src="script.js"></script>
+  </body>
+</html>
